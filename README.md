@@ -22,7 +22,6 @@
 <a href="https://www.behance.net/ushanmithma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ushanmithma" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://app.daily.dev/ushanmithma"><img src="https://api.daily.dev/devcards/387693335be04cb6be7db8773626316e.png?r=8ef" width="400" alt="Ushan Mithma's Dev Card"/></a>
 </p>
